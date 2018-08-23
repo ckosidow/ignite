@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "817090743606",
+    "firebase_url": "https://ignite-675e1.firebaseio.com",
+    "project_id": "ignite-675e1",
+    "storage_bucket": "ignite-675e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817090743606:android:85b66cec252eb7d2",
+        "android_client_info": {
+          "package_name": "com.ignite.ignite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817090743606-8rtgpahu7foiglaqq67887kt3v4bqdjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5A9P_9Qe61EjSFtkep0I4kEKB-WDCimA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
